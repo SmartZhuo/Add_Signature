@@ -3,6 +3,8 @@
 **Easily add your handwritten signature to any PDF file.**  
 Perfect for resumes, contracts, and other official documents.
 
+![Add Signature Demo](/example.png)
+
 ---
 
 ## ✨ Motivation
